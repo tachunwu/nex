@@ -1,0 +1,1 @@
+nats req svc.echo 'this is a test'
